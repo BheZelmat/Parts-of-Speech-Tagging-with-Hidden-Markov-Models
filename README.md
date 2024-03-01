@@ -1,7 +1,7 @@
 # Parts-of-Speech Tagging with Hidden Markov Models : 
 
 
-![alt text](https://github.com/BheZelmat/Parts-of-Speech-Tagging-with-Hidden-Markov-Models/blob/main/img.jpeg?raw=true)
+![alt text](https://github.com/BheZelmat/Parts-of-Speech-Tagging-with-Hidden-Markov-Models/blob/main/img.jpg?raw=true)
 
 ## Overview
 This notebook delves into Parts-of-Speech (POS) tagging, a foundational task in Natural Language Processing (NLP), using Hidden Markov Models (HMM). It illustrates how to assign grammatical categories (nouns, verbs, etc.) to individual words in a sentence, essential for understanding sentence structure and meaning.
